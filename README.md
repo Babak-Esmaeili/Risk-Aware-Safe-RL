@@ -72,7 +72,7 @@ The included MATLAB scripts reproduce the paper’s simulation example, demonstr
     </td>
   </tr>
 </table>
-<p align="center"><em>Simulation Results.</em></p>
+<p align="center"><em>Simulation Results: Top left: Optimal Control. Top right: Pure Safe Control. Bottom: Interpolated Safe Optimal Control.</em></p>
 
 
 ---
