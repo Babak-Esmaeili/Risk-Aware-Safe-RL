@@ -54,8 +54,8 @@ The included MATLAB scripts reproduce the paper’s simulation example, demonstr
 <!-- Part 1 – 1 row × 2 images -->
 <table align="center">
   <tr>
-    <td><img src="figures/closedLoop_CH.png"   alt="2-D state trajectories" width="320"/></td>
-    <td><img src="figures/partitioned_set.png" alt="2-D control input"      width="320"/></td>
+    <td><img src="Figures/closedLoop_CH.png"   alt="2-D state trajectories" width="320"/></td>
+    <td><img src="Figures/partitioned_set.png" alt="2-D control input"      width="320"/></td>
   </tr>
 </table>
 <p align="center"><em>Closed-loop Set Partitioning.</em></p>
@@ -63,12 +63,12 @@ The included MATLAB scripts reproduce the paper’s simulation example, demonstr
 <!-- Part 2 – 2 images in the first row, 1 image in the second row -->
 <table align="center">
   <tr>
-    <td><img src="figures/optimal_result.png"        alt="Vehicle XY path"       width="260"/></td>
-    <td><img src="figures/safe_result.png"  alt="Steering input"        width="260"/></td>
+    <td><img src="Figures/optimal_result.png"        alt="Vehicle XY path"       width="260"/></td>
+    <td><img src="Figures/safe_result.png"  alt="Steering input"        width="260"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="figures/safe_optimal_result.png"   alt="Lateral deviation"     width="300"/>
+      <img src="Figures/safe_optimal_result.png"   alt="Lateral deviation"     width="300"/>
     </td>
   </tr>
 </table>
